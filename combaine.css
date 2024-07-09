@@ -1,0 +1,49 @@
+/* section p{
+    background-color: greenyellow ;
+} */
+
+/* body{
+    background-image: url('../images/stars3.jpeg');
+    background-repeat: no-repeat;
+} */
+
+.box{
+    background-color: rgb(11, 120, 230);
+    border: 2px black solid;
+    width: 500px;
+    /* padding-top: 10px;
+    padding-right: 15px;    
+    padding-bottom: 10px;
+    padding-left: 15px; */
+
+    padding: 10px 15px 10px 15px;
+    margin: 15px;
+
+}
+section >p{
+    background-color: blueviolet;
+}
+h1 + p{
+    background-color: red;
+}
+
+#box1{
+    background-color: blanchedalmond;
+    /* border-color: black;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: groove; */
+
+    border: 3px groove black;
+    border-radius: 10px;;
+}
+#box2{
+   background-image: url('../images/stars3.jpeg');
+    background-repeat: no-repeat;
+}
+#box3{
+    background-color: blanchedalmond;
+    height: 300px;
+    width: 600px;
+    
+}
